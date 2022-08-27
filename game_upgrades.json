@@ -1,0 +1,26 @@
+{
+    "buildings":[
+        {
+            "name":"Dark Elixar Storage",
+            "upgrade_resource":"Elixar",
+            "levels":[
+                {
+                    "cost":7200000,
+                    "time":"8d"
+                }
+            ]
+        }
+    ],
+    "lab":[
+        {
+            "name":"Hog Rider",
+            "upgrade_resource":"Dark Elixar",
+            "levels":[
+                {
+                    "cost":100000,
+                    "time":"4d"
+                }
+            ]
+        }
+    ]
+}
